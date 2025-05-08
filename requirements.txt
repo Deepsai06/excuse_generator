@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+peft
+huggingface_hub
+datasets
+accelerate
+gTTS
+Pillow
+pandas
+numpy
